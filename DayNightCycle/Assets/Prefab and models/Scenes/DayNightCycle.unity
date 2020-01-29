@@ -203,7 +203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sun: {fileID: 170076734}
   secondsInFullDay: 15
-  currentTimeOfDay: 0.5
+  currentTimeOfDay: 0.165
   timeMultiplier: 1
 --- !u!1 &380108919
 GameObject:
