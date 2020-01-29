@@ -309,7 +309,7 @@ MonoBehaviour:
     type: 3}
   leftToast: {x: -0.004, y: 0, z: 0.01}
   rightToast: {x: 0.0036, y: 0, z: 0.01}
-  ejectForce: 3000
+  ejectForce: 4000
 --- !u!54 &174642018
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -735,6 +735,7 @@ GameObject:
   m_Component:
   - component: {fileID: 765854418}
   - component: {fileID: 765854417}
+  - component: {fileID: 765854419}
   m_Layer: 0
   m_Name: Camera switch
   m_TagString: Untagged
@@ -754,8 +755,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cba82b4395af73d448f32dd60b3b03b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  camera1: {fileID: 0}
-  camera2: {fileID: 0}
+  camera1: {fileID: 534669902}
+  camera2: {fileID: 78222539}
 --- !u!4 &765854418
 Transform:
   m_ObjectHideFlags: 0
@@ -770,6 +771,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &765854419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 765854416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffae3b1e11ada444f825d23299d75072, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &876034358
 GameObject:
   m_ObjectHideFlags: 0
