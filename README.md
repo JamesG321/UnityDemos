@@ -8,7 +8,7 @@ All projects are made under Unity 2018.4.
 ![Click and drag thumbnail](https://github.com/JamesG321/UnityDemos/blob/master/Images%20for%20documents/click%20and%20drag%20thumbnail.png)
 This is a demo for a click and drag script that allows the user to pick up and move/drag around an object using thier mouse. Release velocity is also calculated based on how fast the user drags the object before letting go of the click. This allows the user to 'throw' around the object as well. 
 
-To use it in your own project, simply attach [DragObject.cs](https://github.com/JamesG321/UnityDemos/blob/master/Click%20and%20drag%20demo/Assets/Scripts/DragObject.cs) to a rigid body.
+To use it in your own project, simply attach [DragObject.cs](https://github.com/JamesG321/UnityDemos/blob/master/Click%20and%20drag%20demo/Assets/Scripts/DragObject.cs) to a rigid body:
 
 ### Interactive webGL demo: [Click and drag webGL demo](https://connect.unity.com/p/click-and-drag-script-demo)
 
