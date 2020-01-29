@@ -12,9 +12,9 @@ To use it in your own project, simply attach [DragObject.cs](https://github.com/
 
 Interactive webGL demo: [click and drag webGL demo](https://connect.unity.com/p/click-and-drag-script-demo)
 
-###Models used: [Farm Animals Set by Vertex Cat](https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
+### Models used: [Farm Animals Set by Vertex Cat](https://assetstore.unity.com/packages/3d/farm-animals-set-97945)
 
-##Day night cycle script
+## Day night cycle script
 ![Day night cycle tumbnail](https://github.com/JamesG321/UnityDemos/blob/master/Images%20for%20documents/DayNightCycle%20thumbnail.png)
 This demo is a simple day night cycle system using a diretional light and achieveing the effect of sunlight changing throughout the day by changing the intensity and rotation of the light. 
 
@@ -23,10 +23,10 @@ Complete with adjustable day length and time of day.
 
 To use it in your own project, attach [SetSunlight.cs](https://github.com/JamesG321/UnityDemos/blob/master/DayNightCycle/Assets/Scripts/SetSunlight.cs) to your project and add a directional light as the sun into the public variable.
 
-###Models used: 
+### Models used: 
 
-####Tent and campfire: [LowPolySurvivalEssentials demo by BrokenVector](https://brokenvector.itch.io/ultimate-low-poly-survival)
-####Low poly tree: [Low poly tree by kotzuo](https://sketchfab.com/3d-models/low-poly-tree-6d986e0b24b54d85a5354e5cac6207a1)
-####Moon texture: [solarSystemscope.com](https://www.solarsystemscope.com/textures/)
+#### Tent and campfire: [LowPolySurvivalEssentials demo by BrokenVector](https://brokenvector.itch.io/ultimate-low-poly-survival)
+#### Low poly tree: [Low poly tree by kotzuo](https://sketchfab.com/3d-models/low-poly-tree-6d986e0b24b54d85a5354e5cac6207a1)
+#### Moon texture: [solarSystemscope.com](https://www.solarsystemscope.com/textures/)
 
 
