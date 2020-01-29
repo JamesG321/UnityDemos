@@ -38,7 +38,11 @@ This demo shows the usage of rigid body physics and box colliders with a toaster
 The demo was built to be a prototype/proof of concept segment for the [codavore](https://codavore.blogspot.com/) game, where the toaster is the first malfunction that the player would experince in their spaceship.
 
 ### Interactive webGL demo: [Rigidbody toaster demo](https://connect.unity.com/p/rigidbody-toaster-demo)
-Controls: Space - eject toast on both sides, G & H - eject toast on left/right side, C - switch between overview/toaster cam, R - reset
+#### Controls: 
+Space - eject toast on both sides, 
+G & H - eject toast on left/right side, 
+C - switch between overview/toaster cam, 
+R - reset
 
 ### Models used: [toaster by idealton, remixed and sperated by me](https://sketchfab.com/3d-models/toaster-888f15c535bd4eeea3934e235370941d)
 
